@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Phil Mattingly, Kevin Liptak, Manu Raju, Kaitlan Collins",
+      "title": "Biden and Zelensky planning to meet in Washington for Ukrainian president's first foreign trip since war began - CNN",
+      "description": "President Joe Biden and Ukrainian President Volodymyr Zelensky are planning to meet at the White House on Wednesday, according to two sources familiar with the planning, in a Washington visit that is tentatively scheduled to include an address to a joint sess…",
+      "url": "https://www.cnn.com/2022/12/20/politics/volodymyr-zelensky-washington-dc-visit/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221217163722-volodymyr-zelensky-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T02:25:00Z",
+      "content": "President Joe Biden and Ukrainian President Volodymyr Zelensky are planning to meet at the White House on Wednesday, according to two sources familiar with the planning, in a Washington visit that is… [+5642 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Melissa Gaffney",
+      "title": "Elon Musk says he'll resign as head of Twitter - ABC News",
+      "description": "Musk polled Twitter users and said he would abide by the resuts.",
+      "url": "https://abcnews.go.com/Business/elon-musk-hell-resign-head-twitter/story?id=95630793",
+      "urlToImage": "https://s.abcnews.com/images/US/elon-musk-gty-gmh-221220_1671587715270_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-12-21T01:58:59Z",
+      "content": "After polling Twitter users, Elon Musk on Tuesday night said he will resign as head of the social media platform.\r\n\"I will resign as CEO as soon as I find someone foolish enough to take the job! Afte… [+904 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Reuters",
+      "title": "BOJ changes yield curve control, jolts markets with surprise monetary policy - CNN",
+      "description": "The Bank of Japan shocked markets Tuesday with a surprise tweak to its bond yield controls that allows long-term interest rates to rise more, a move aimed at easing some of the costs of prolonged monetary stimulus.",
+      "url": "https://www.cnn.com/2022/12/20/investing/japan-boj-yield-curve-control-change/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220021728-01-bank-of-japan-hq-122022.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-21T01:57:00Z",
+      "content": "The Bank of Japan shocked markets Tuesday with a surprise tweak to its bond yield controls that allows long-term interest rates to rise more, a move aimed at easing some of the costs of prolonged mon… [+2829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Mike Vulpo",
+      "title": "Rumer Willis Is Pregnant, Expecting First Baby With Boyfriend Derek Richard Thomas - E! NEWS",
+      "description": "Rumer Willis is going to be a mom. The actress announced on Instagram Dec. 20 that she is expecting her first child with singer Derek Richard Thomas.",
+      "url": "https://www.eonline.com/news/1359052/rumer-willis-is-pregnant-expecting-first-baby-with-boyfriend-derek-richard-thomas",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221120/rs_1200x1200-221220161602-1200-rumer-willis2-mv-122022.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-12-21T01:00:00Z",
+      "content": "This holiday season, Rumer Willis is gifting her fans with some baby news.\r\nThe actress and her boyfriend Derek Richard Thomas announced on Dec. 20 that they are expecting their first child together … [+843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "FTX boss Sam Bankman-Fried agrees to be extradited - BBC",
+      "description": "The cryptocurrency exchange boss is expected to travel to the US to face fraud charges, the BBC understands.",
+      "url": "https://www.bbc.com/news/business-64036615",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E7C9/production/_128073395_sambankmanfried.png",
+      "publishedAt": "2022-12-21T00:53:28Z",
+      "content": "Sam Bankman-Fried, the former boss of the failed cryptocurrency exchange FTX, has agreed to be extradited to the US to face charges, the BBC understands.\r\nThe 30-year-old, who lives in the Bahamas, h… [+2317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Massive Winter Storm May Impact Holiday Travel - NBC News",
+      "description": "A monster winter storm that has already blanketed the West is set to bring rain, snow, wind, and a brutal arctic chill to 40 states this week. NBC News’ Magg...",
+      "url": "https://www.youtube.com/watch?v=xtayZ3fvkXw",
+      "urlToImage": "https://i.ytimg.com/vi/xtayZ3fvkXw/maxresdefault.jpg",
+      "publishedAt": "2022-12-21T00:30:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Aislinn Murphy",
+      "title": "Five eye-popping spending items in the $1.7 trillion omnibus bill - Fox Business",
+      "description": "Federal lawmakers made public a massive $1.7 trillion omnibus spending bill on Tuesday morning. Here are five eye-popping spending items inside it.",
+      "url": "https://www.foxbusiness.com/politics/five-eye-popping-spending-items-1-7-trillion-omnibus-bill",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/09/0/0/Democrat-spending-package.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-21T00:21:17Z",
+      "content": "Federal lawmakers made public a massive $1.7 trillion omnibus spending bill on Tuesday morning. \r\nThe release of the bill, which spans 4,155 pages, comes after negotiations between Senate Republicans… [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Carolyn Gusoff, zinnia maldonado",
+      "title": "Calls grow for Congressman-elect George Santos to resign after allegedly lying about his background - CBS New York",
+      "description": "A bombshell report claims Santos lied about his resumé​, including where he worked and went to school.",
+      "url": "https://www.cbsnews.com/newyork/news/calls-grow-for-congressman-elect-george-santos-to-resign-after-allegedly-lying-about-his-background/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/33ce3f13-4c9a-456c-88f2-ccc5467e215e/thumbnail/1200x630/3f0892a85f7a4ab079306469eedd22fc/gettyimages-1442799871.jpg",
+      "publishedAt": "2022-12-21T00:09:00Z",
+      "content": "GREAT NECK, N.Y. -- A chorus of calls is growing louder for Congressman-elect George Santos to respond to scathing allegations in a New York Times investigation that says the Republican from Queens f… [+4383 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katelyn Polantz, Pamela Brown, Jamie Gangel, Jeremy Herb",
+      "title": "Exclusive: Trump's former White House ethics lawyer told Cassidy Hutchinson to give misleading testimony to January 6 committee, sources say - CNN",
+      "description": "The January 6 committee made a startling allegation on Monday, claiming it had evidence that a Trump-backed attorney urged a key witness to mislead the committee about details they recalled.",
+      "url": "https://www.cnn.com/2022/12/20/politics/trump-ethics-lawyer-passantino-cassidy-hutchinson-misleading-testimony-jan-6/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116154118-cassidy-hutchinson-jan-6-hearing-0628.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-20T23:54:00Z",
+      "content": "The January 6 committee made a startling allegation on Monday, claiming it had evidence that a Trump-backed attorney urged a key witness to mislead the committee about details they recalled. \r\nThough… [+7798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "author": "Ross Dellenger",
+      "title": "As Starkville Remembers Mike Leach, a Restaurant Owner Reveals One of His Last Acts - Sports Illustrated",
+      "description": "The owner of local eatery WTF shared a personal story of how the late college football coach saved her business.",
+      "url": "https://www.si.com/college/2022/12/20/mike-leach-memorial-mississippi-state-football-starkville",
+      "urlToImage": "https://www.si.com/.image/t_share/MTk0NTg3Mjc4NTUzNjU0NDM0/mike-leach-shan-suber.jpg",
+      "publishedAt": "2022-12-20T23:33:29Z",
+      "content": "STARKVILLE, Miss. — The first time Mike Leach arrived at the seafood and soul food restaurant called WTF, he ordered the honey gold chicken wings a certain way.\r\n“Extra crispy,” he told Shan Suber, t… [+9854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Congress close to passing massive spending bill with other pieces of legislation attached - PBS NewsHour",
+      "description": "Lawmakers are working around the clock to pass a massive $1.7 trillion government funding bill before heading home for the holidays. Over 4,000 pages of legi...",
+      "url": "https://www.youtube.com/watch?v=NWsm6XIm9rg",
+      "urlToImage": "https://i.ytimg.com/vi/NWsm6XIm9rg/maxresdefault.jpg",
+      "publishedAt": "2022-12-20T23:25:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Claire Jackson",
+      "title": "Gamers Are Suing Microsoft To Thwart Its Merger With Activision - Kotaku",
+      "description": "The FTC isn’t the only one saying, 'hang on a minute, there'",
+      "url": "https://kotaku.com/microsoft-activision-merger-lawsuit-ftc-call-of-duty-1849917017",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bc775e9a74aed2a02b079d2815045abb.jpg",
+      "publishedAt": "2022-12-20T23:10:00Z",
+      "content": "The Clayton Antitrust Act of 1914 gives Americans the right to sue companies over anticompetitive behavior, a fact which 10 self-described gamers are using to take Microsoft to court, aiming to halt … [+2791 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "John Fritze, USA TODAY",
+      "title": "Biden urges Supreme Court to let it end Title 42 migrant program - USA TODAY",
+      "description": "Biden's response came a day after Chief Justice Roberts temporarily blocked the Biden administration from ending Title 42 migrant expulsions.",
+      "url": "https://www.usatoday.com/story/news/politics/2022/12/20/biden-supreme-title-42-migrants/10930071002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/20/USAT/c4901085-2d74-4a81-9a47-4eed546ceef2-AFP_AFP_334V8L2.jpg?auto=webp&crop=7699,4331,x1,y313&format=pjpg&width=1200",
+      "publishedAt": "2022-12-20T22:11:19Z",
+      "content": "WASHINGTON – President Joe Biden's administration told the Supreme Court on Tuesday that Republican state officials have no business standing in the way of the decision to end the Title 42 program th… [+5680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "NFL Power Rankings Week 16! #shorts - NFL",
+      "description": "Check out our other channels:NFL Tuesday Night Gaming https://www.youtube.com/c/NFLTNGNFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtub...",
+      "url": "https://www.youtube.com/watch?v=P0kWe4wKMkg",
+      "urlToImage": "https://i.ytimg.com/vi/P0kWe4wKMkg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBIKEMwDw==&rs=AOn4CLDUkAidsooNN2A8bflquhcAyHtreA",
+      "publishedAt": "2022-12-20T22:00:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Dan Heching",
+      "title": "Sonya Eddy, star of 'General Hospital,' dead at 55 - CNN",
+      "description": "Sonya Eddy, a veteran actress best known for her performance as nurse Epiphany Johnson on the soap opera \"General Hospital,\" has died, the show announced in a tribute post.",
+      "url": "https://www.cnn.com/2022/12/20/entertainment/sonya-eddy-general-hospital-dead/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221220160919-01-sonya-eddy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-20T21:49:00Z",
+      "content": "Sonya Eddy, a veteran actress best known for her performance as nurse Epiphany Johnson on the soap opera General Hospital, has died, the show announced in a tribute post.\r\nShe was 55, her manager tol… [+1090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Brandon Huffman",
+      "title": "College football recruiting: 2022 National Signing Day schedule, key announcement times, predictions, picks - CBS Sports",
+      "description": "Everything you need to know about National Signing Day as the Class of 2023 begins putting ink to paper",
+      "url": "https://www.cbssports.com/college-football/news/college-football-recruiting-2022-national-signing-day-schedule-key-announcement-times-predictions-picks/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/20/519a5eae-4324-442c-a170-e320b3358e4e/thumbnail/1200x675/385a1ffc3250b5d66924bc4a4e6f68dc/matayo.jpg",
+      "publishedAt": "2022-12-20T21:27:00Z",
+      "content": "Wednesday marks the opening of the early signing period for the 2023 college football recruiting cycle, and with the majority of the Top247 prospects having already made their decisions, all eyes wil… [+4143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Life-Threatening Cold To Overtake Much Of U.S. Heading Into Christmas - FOX Weather",
+      "description": "Life-threatening wind chills may approach 60 below zero Thursday and Friday morning. At these temperatures, frostbite could develop in less than 10 minutes. ...",
+      "url": "https://www.youtube.com/watch?v=aGYHLsBokQk",
+      "urlToImage": "https://i.ytimg.com/vi/aGYHLsBokQk/maxresdefault.jpg",
+      "publishedAt": "2022-12-20T21:15:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "The Weather Channel",
+      "title": "Potential Bomb Cyclone, Midwest Blizzard Ahead | Weather.com - The Weather Channel",
+      "description": "Here's our latest forecast thinking and potential impacts for this major Winter Storm Elliott. - Articles from The Weather Channel | weather.com",
+      "url": "https://weather.com/storms/winter/news/2022-12-19-bomb-cyclone-blizzard-winter-storm-elliott-forecast",
+      "urlToImage": "https://s.w-x.co/elliott-tueam.jpeg",
+      "publishedAt": "2022-12-20T21:14:57Z",
+      "content": "At a Glance\r\n<ul><li>A major storm is looming prior to Christmas weekend.</li><li>The heaviest snow will target the Great Lakes, with over a foot possible for some.</li><li>High winds capable of tree… [+8617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Taliban bans higher eduaction for women 'until further notice' | DW News - DW News",
+      "description": "The Taliban has closed universities for female students, the Ministry of Higher Education said on Tuesday in Afghanistan.\"You are all informed to immediately...",
+      "url": "https://www.youtube.com/watch?v=4-nxQoQUfzA",
+      "urlToImage": "https://i.ytimg.com/vi/4-nxQoQUfzA/maxresdefault.jpg",
+      "publishedAt": "2022-12-20T21:00:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Darnell Mayberry, Shams Charania",
+      "title": "Bulls’ struggles include managing on-court disconnect between LaVine, DeRozan: Sources - The Athletic",
+      "description": "The Bulls have held multiple team meetings to try to work out the stars' issues.",
+      "url": "https://theathletic.com/4021985/2022/12/20/chicago-bulls-zach-lavine-demar-derozan/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/12/20145716/GettyImages-1443432016-1024x683.jpg",
+      "publishedAt": "2022-12-20T20:34:47Z",
+      "content": "With two 2022 All-Stars in Zach LaVine and DeMar DeRozan and former All-Star center Nikola Vucevic, the Chicago Bulls had hoped to be a serious contender in the Eastern Conference and build upon thei… [+9360 chars]"
+    }
+  ]
+}
